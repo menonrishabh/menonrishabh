@@ -46,9 +46,10 @@ I am Rishabh currently pursuing  Computer Science engineering from CMR Universit
        
        
  # HOBBIES 
-- #### Basketball 🏀
-- #### Swimming   🏊🏽   
-- #### Motorsport Enthusiast 🏎
-- #### Art 🖼
-- #### Music 🎶        
-- #### Public Speaking 🎤 
+- ### Basketball 🏀
+- ### Swimming   🏊🏽   
+- ### Motorsport Enthusiast 🏎
+- ### Art 🖼
+- ### Music 🎶        
+- ### Public Speaking 🎤 
+       
