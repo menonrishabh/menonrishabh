@@ -34,6 +34,9 @@ I am Rishabh currently pursuing  Computer Science engineering from CMR Universit
        
  - ***HTML Course***
     - currently learning how to be more efficient with UI-UX & backend of a webpage
+   
+---       
+ # PROJECTS
        
  # KEY ACHIEVEMENTS
    - **CMR University Ambassador**
