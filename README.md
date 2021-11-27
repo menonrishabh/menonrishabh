@@ -37,6 +37,15 @@ I am Rishabh currently pursuing  Computer Science engineering from CMR Universit
    
 ---       
  # PROJECTS
+   - ***UPSHOT***
+        - *Upshot is a project that would calculate a students marks and guide him through the process of graduating an undergrad program compartively easier with the help of our web application we show an accurate graph based on a students score and which carrer option is the best for he /she, we also integrated a student & teacher portal which would be helpful for the students as their marks would be shown in a pictorial representation.*
+       
+   - ***WEATHER APPLICATION***                   
+	   - *The weather app is made using android studio we integrated certain animations using adobe illustrator & sketch we added animations to show the weather & time of any location using an API , the weather application can also detect any saftey hazard for example with - fishermen or people staying in earthquake prone areas.*
+   - ***SKY-NET***                 
+	   - *Skynet is a web page that is built for the community and it helps students or any person who needs answers to any questions focusing on a particular community in-turn narrowing the answers. The users can also like comments and make sure the user asking the question gets the right answer for his/her questions/doubts.*
+       
+  ---
        
  # KEY ACHIEVEMENTS
    - **CMR University Ambassador**
