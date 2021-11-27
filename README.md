@@ -1,5 +1,3 @@
-# Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
-
 <img src="https://github.com/menonrishabh/rishabh menon/blob/main/github%20banner.jpg" alt="rishabh's banner" width=100%>
 
 ## :raising_hand: About me:
